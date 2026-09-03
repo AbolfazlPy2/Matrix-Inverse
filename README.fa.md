@@ -90,7 +90,8 @@ $$
 فرمول کلی معکوس:
 
 $$
-A^{-1} = \frac{1}{\det(A)}\operatorname{adj}(A)
+A^{-1} = \frac{\mathrm{adj}(A)}{\det(A)}
+
 $$
 
 که در آن:

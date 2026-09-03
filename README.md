@@ -90,7 +90,8 @@ Inverse Matrix
 The inverse is calculated using:
 
 $$
-A^{-1} = \frac{1}{\det(A)}\operatorname{adj}(A)
+A^{-1} = \frac{\mathrm{adj}(A)}{\det(A)}
+
 $$
 
 where:
