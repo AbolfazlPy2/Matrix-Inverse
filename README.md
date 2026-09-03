@@ -1,6 +1,6 @@
-
 # 🧮 Matrix Inverse Calculator
 
+[🇮🇷 فارسی](README.fa.md)
 
 A simple Python project that calculates the **inverse of 2×2 and 3×3 matrices** using the mathematical formulas for determinants, minors, cofactors, and adjugate matrices.
 
@@ -195,10 +195,9 @@ Rather than relying on a built-in matrix inverse function, the calculations are 
 Possible future improvements include:
 
 * [ ] Support for larger matrices such as **4×4 and N×N**
+* [ ] Add a graphical user interface
 * [ ] Automatic matrix size detection
-* [ ] More robust input validation
 * [ ] Cleaner and more modular implementation
-* [ ] Optional comparison with NumPy's built-in inverse function
 
 ---
 
