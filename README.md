@@ -91,7 +91,8 @@ The inverse is calculated using:
 
 
 $$
-A^{-1} = \frac{\operatorname{adj}(A)}{\det(A)}
+A^{-1} =
+\frac{\mathrm{adj}(A)}{\det(A)}
 $$
 
 where:

@@ -91,7 +91,8 @@ $$
 
 
 $$
-A^{-1} = \frac{\operatorname{adj}(A)}{\det(A)}
+A^{-1} =
+\frac{\mathrm{adj}(A)}{\det(A)}
 $$
 
 که در آن:
