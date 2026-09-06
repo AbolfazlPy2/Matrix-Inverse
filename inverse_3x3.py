@@ -2,7 +2,7 @@ from numpy import *
 from ast import literal_eval
 import tkinter as tk
 from tkinter import PhotoImage
-
+    
 
 def calculate():
     A = array(literal_eval(entry.get()))
